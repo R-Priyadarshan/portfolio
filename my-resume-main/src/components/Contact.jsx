@@ -60,7 +60,7 @@ const Contact = () => {
                 <FaMapMarkerAlt className="text-3xl text-teal-400 mr-4" />
                 <div>
                   <h4 className="text-xl font-semibold text-gray-800 dark:text-white transition-colors duration-300">Location</h4>
-                  <p className="text-gray-600 dark:text-gray-400 transition-colors duration-300">vandallur,chennai</p>
+                  <p className="text-gray-600 dark:text-gray-400 transition-colors duration-300">chrompet chennai</p>
                 </div>
               </div>
             </div>
@@ -99,4 +99,4 @@ const Contact = () => {
   );
 };
 
-export default Contact; 
+export default Contact;
