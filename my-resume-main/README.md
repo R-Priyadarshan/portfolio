@@ -1,5 +1,5 @@
 
-# 💼 Balaji S - Portfolio
+# 💼 R Priyadarshan - Portfolio
 
 Welcome to my **personal portfolio website**, built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.  
 This site showcases my journey as a Software Developer & Data Scientist — highlighting my projects, skills, certifications, and contact info in a clean, elegant layout.
@@ -8,7 +8,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 
 ## 🚀 Live Demo
 
-🔗 [Click to View My Portfolio](https://balaji-29-s.github.io/my-resume/)
+🔗 [Click to View My Portfolio](https://R-Priyadarshan.github.io/myResume/)
 
 ---
 
@@ -62,7 +62,7 @@ my-resume/
 ### 🚀 Local Development
 
 ```bash
-git clone https://github.com/balaji-29-s/my-resume.git
+git clone https://github.com/R-Priyadarshan/myResume.git
 cd my-resume
 npm install
 npm run dev
@@ -102,7 +102,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-Deployed at 👉 [https://balaji-29-s.github.io/my-resume/](https://balaji-29-s.github.io/my-resume/)
+Deployed at 👉 [https://R-Priyadarshan.github.io/myResume/](https://R-Priyadarshan.github.io/myResume/)
 
 ---
 
@@ -113,7 +113,7 @@ Deployed at 👉 [https://balaji-29-s.github.io/my-resume/](https://balaji-29-s.
 Edit `index.html` in root:
 
 ```html
-<title>Balaji S - Portfolio</title>
+<title>R Priyadarshan - Portfolio</title>
 ```
 
 ### Add Your Projects

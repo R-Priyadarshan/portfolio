@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://balupeddireddy08.github.io/myResume",
+  "homepage": "https://R-Priyadarshan.github.io/myResume",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
