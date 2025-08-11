@@ -8,7 +8,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 
 ## 🚀 Live Demo
 
-🔗 [Click to View My Portfolio](https://priyadarshan.github.io/myResume/)
+🔗 [Click to View My Portfolio](https://R-Priyadarshan.github.io/myResume/)
 
 ---
 
@@ -62,7 +62,7 @@ my-resume/
 ### 🚀 Local Development
 
 ```bash
-git clone https://github.com/priyadarshan/myResume.git
+git clone https://github.com/R-Priyadarshan/myResume.git
 cd my-resume
 npm install
 npm run dev
@@ -102,7 +102,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-Deployed at 👉 [https://priyadarshan.github.io/myResume/](https://priyadarshan.github.io/myResume/)
+Deployed at 👉 [https://R-Priyadarshan.github.io/myResume/](https://R-Priyadarshan.github.io/myResume/)
 
 ---
 
