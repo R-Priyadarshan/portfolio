@@ -1,5 +1,5 @@
 
-# 💼 Balaji S - Portfolio
+# 💼 R Priyadarshan - Portfolio
 
 Welcome to my **personal portfolio website**, built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.  
 This site showcases my journey as a Software Developer & Data Scientist — highlighting my projects, skills, certifications, and contact info in a clean, elegant layout.
