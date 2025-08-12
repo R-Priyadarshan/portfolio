@@ -8,7 +8,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 
 ## 🚀 Live Demo
 
-🔗 [Click to View My Portfolio](https://R-Priyadarshan.github.io/myResume/)
+🔗 [Click to View My Portfolio](https://r-priyadarshan-portfolio.netlify.app/)
 
 ---
 
@@ -102,7 +102,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-Deployed at 👉 [https://R-Priyadarshan.github.io/myResume/](https://R-Priyadarshan.github.io/myResume/)
+Deployed at 👉 [https://r-priyadarshan-portfolio.netlify.app/](https://r-priyadarshan-portfolio.netlify.app/)
 
 ---
 
