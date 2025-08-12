@@ -35,12 +35,7 @@ const Hero = () => {
 
       {/* Content */}
       <div className="container mx-auto px-4 z-10">
-        <motion.div
-          className="text-center"
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 1 }}
-        >
+        <div className="text-center">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 text-teal-600 dark:text-teal-400">
             R Priyadarshan
           </h1>
@@ -48,16 +43,14 @@ const Hero = () => {
             Aspiring Software Developer & Data Scientist. Passionate about building intelligent solutions that solve real-world problems.
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
-            <motion.a
+            <a
               href="#projects"
-              className="inline-block bg-gradient-to-r from-teal-500 to-emerald-600 text-white font-bold py-3 px-8 rounded-full text-lg shadow-lg"
-              whileHover={{ scale: 1.05, boxShadow: "0px 0px 15px rgba(20, 184, 166, 0.6)" }}
-              transition={{ type: "spring", stiffness: 400, damping: 10 }}
+              className="inline-block bg-gradient-to-r from-teal-500 to-emerald-600 text-white font-bold py-3 px-8 rounded-full text-lg shadow-lg hover:scale-105 transition-transform"
             >
               View My Projects
-            </motion.a>
+            </a>
           </div>
-        </motion.div>
+        </div>
       </div>
     </section>
   );
