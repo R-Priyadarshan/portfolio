@@ -8,7 +8,8 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 
 ## 🚀 Live Demo
 
-🔗 [Click to View My Portfolio](https://R-Priyadarshan.github.io/myResume/)
+🔗 **[View on Netlify](https://r-priyadarshan-portfolio.netlify.app)** ⚡ (Primary)
+🔗 [View on GitHub Pages](https://R-Priyadarshan.github.io/myResume/)
 
 ---
 
