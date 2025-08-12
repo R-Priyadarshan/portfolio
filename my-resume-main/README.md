@@ -13,7 +13,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 
 ---
 
-## 🖼️ Features
+## ����️ Features
 
 - ⚡ Lightning-fast with Vite
 - 🌙 Light/Dark Theme with toggle and saved preference
@@ -29,7 +29,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 - **Frontend**: React + Tailwind CSS + Vite
 - **Animation**: Framer Motion
 - **Icons**: React Icons
-- **Deployment**: GitHub Pages
+- **Deployment**: Netlify + GitHub Pages
 
 ---
 
