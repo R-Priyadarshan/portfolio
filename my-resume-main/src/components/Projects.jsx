@@ -3,11 +3,6 @@ import { FaExternalLinkAlt, FaGithub } from 'react-icons/fa';
 
 const projects = [
   {
-    title: "Disease Prediction using Ensemble Models",
-    description: "Predicts heart and Parkinson's diseases using ensemble learning techniques combining multiple ML models.",
-    github: "https://github.com/balaji-29-s/disease-prediction-using-ensemble-models-heart-and-parkinsons-",
-  },
-  {
     title: "Project Quiz",
     description: "A TypeScript-based interactive quiz web app designed to test and enhance knowledge retention.",
     github: "https://github.com/R-Priyadarshan/ai-quiz.git",
