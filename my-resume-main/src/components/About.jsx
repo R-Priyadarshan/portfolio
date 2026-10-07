@@ -22,20 +22,7 @@ const About = () => {
           </h2>
           <div className="mx-auto w-24 h-1 bg-gradient-to-r from-teal-400 to-emerald-500 rounded-full mb-6" />
           <p className="text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-            I'm <strong>R Priyadarshan</strong>, an aspiring Software Developer and Data Scientist. Passionate about building intelligent systems and crafting solutions using AI, ML, and full-stack technologies. Currently pursuing my B.Tech at SRM Institute of Science and Technology 
-          </p>
-        </motion.div>
-
-        {/* Quote Block */}
-        <motion.div
-          initial={{ opacity: 0, scale: 0.95 }}
-          whileInView={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1 }}
-          viewport={{ once: true }}
-          className="max-w-3xl mx-auto bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 text-center mb-12 border-l-4 border-teal-500"
-        >
-          <p className="text-lg italic text-gray-700 dark:text-gray-300">
-            "I believe in turning data into decisions and ideas into intelligent systems."
+            Electronics & Computer Engineering undergraduate with hands-on experience in Python, C/C++, embedded systems, and data science. Passionate about solving real-world problems through software development, data analytics, and AI/ML solutions.
           </p>
         </motion.div>
 
@@ -55,12 +42,35 @@ const About = () => {
 
             <div className="space-y-8">
               <div className="border-l-2 border-teal-400 pl-4">
-                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">CEM Intern</h4>
-                <p className="text-teal-400">SRM Chennai</p>
-                <p className="text-gray-500 dark:text-gray-400">2-Month Internship</p>
-                <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 mt-2">
-                  <li>Working on real-world ROS based projects.</li>
-                  <li>Collaborating with CEM faculty for model experimentation.</li>
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">Test Engineer & Data Analyst</h4>
+                <p className="text-teal-400">NCR Atleos, Chennai</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">2026</p>
+                <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 mt-2 text-sm">
+                  <li>Hardware testing and failure-mode analysis</li>
+                  <li>Power BI dashboards for assets & metrics</li>
+                  <li>Automated data preparation & reporting</li>
+                </ul>
+              </div>
+
+              <div className="border-l-2 border-teal-400 pl-4">
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">Telemetry Engineering Intern</h4>
+                <p className="text-teal-400">Nokia</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">2026</p>
+                <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 mt-2 text-sm">
+                  <li>Real-time network telemetry data modeling</li>
+                  <li>YANG Push Lite streaming pipelines</li>
+                  <li>Python scripting & Git workflows</li>
+                </ul>
+              </div>
+
+              <div className="border-l-2 border-teal-400 pl-4">
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">Engineering Intern</h4>
+                <p className="text-teal-400">CEM, Chennai</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">2025</p>
+                <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 mt-2 text-sm">
+                  <li>ATV autonomous-navigation system using ROS & Gazebo</li>
+                  <li>SLAM-based obstacle avoidance</li>
+                  <li>Hardware-software integration</li>
                 </ul>
               </div>
             </div>
@@ -81,30 +91,56 @@ const About = () => {
 
             <div className="space-y-8">
               <div className="border-l-2 border-emerald-400 pl-4">
-                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">B.Tech in Electronics and Computer Engineering</h4>
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">B.Tech Electronics & Computer Engineering</h4>
                 <p className="text-emerald-400">SRM Institute of Science and Technology</p>
-                <p className="text-gray-500">5th Semester | CGPA: 8.5</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">Expected 2027 | CGPA: 8.4/10</p>
               </div>
 
               <div className="border-l-2 border-emerald-400 pl-4">
-                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">B.Sc in Data Science</h4>
-                <p className="text-emerald-400">IIT Madras</p>
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">B.Sc Data Science</h4>
+                <p className="text-emerald-400">Indian Institute of Technology Madras</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">In Progress | CGPA: 7.6/10</p>
               </div>
 
               <div className="border-l-2 border-emerald-400 pl-4">
-                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">12th Grade</h4>
-                <p className="text-emerald-400">Narayana College</p>
-                <p className="text-gray-500">80.2%</p>
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">12th Grade (CBSE)</h4>
+                <p className="text-emerald-400">Narayana Co Kaveri Bhavan</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">2023 | 78.5%</p>
               </div>
 
               <div className="border-l-2 border-emerald-400 pl-4">
-                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">10th Grade</h4>
-                <p className="text-emerald-400">DAV Public School</p>
-                <p className="text-gray-500">89%</p>
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">10th Grade (CBSE)</h4>
+                <p className="text-emerald-400">DAV Public School, Safilguda</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">2021 | 89.8%</p>
               </div>
             </div>
           </motion.div>
         </div>
+
+        {/* Certifications */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8 }}
+          viewport={{ once: true }}
+          className="mt-12 bg-white dark:bg-gray-800 p-8 rounded-xl shadow-xl"
+        >
+          <h3 className="text-2xl font-bold mb-6 text-gray-800 dark:text-white">Certifications</h3>
+          <div className="grid md:grid-cols-2 gap-4">
+            <div className="text-gray-600 dark:text-gray-300">
+              • AWS Certified Cloud Practitioner
+            </div>
+            <div className="text-gray-600 dark:text-gray-300">
+              • IIT Madras Data Science Certification
+            </div>
+            <div className="text-gray-600 dark:text-gray-300">
+              • Machine Learning – Microsoft/Kaggle
+            </div>
+            <div className="text-gray-600 dark:text-gray-300">
+              • AI/ML Workshop – IIT Hyderabad
+            </div>
+          </div>
+        </motion.div>
 
         {/* Download Resume */}
         <div className="flex justify-center mt-12">

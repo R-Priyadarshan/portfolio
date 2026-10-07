@@ -40,7 +40,10 @@ const Hero = () => {
             R Priyadarshan
           </h1>
           <p className="text-xl md:text-3xl text-gray-700 dark:text-gray-300 max-w-3xl mx-auto mb-8 transition-colors duration-300">
-            Aspiring Software Developer & Data Scientist. Passionate about building intelligent solutions that solve real-world problems.
+            Electronics & Computer Engineering | Data Science
+          </p>
+          <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto mb-8">
+            Software development, data analytics, AI/ML, embedded systems, and Industrial IoT solutions.
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
             <a
