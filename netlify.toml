@@ -1,0 +1,9 @@
+[build]
+  base = "my-resume-main"
+  publish = "my-resume-main/dist"
+  command = "cd my-resume-main && npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
