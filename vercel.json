@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd my-resume-main && npm install && npm run build",
+  "outputDirectory": "my-resume-main/dist",
+  "framework": "vite"
+}
