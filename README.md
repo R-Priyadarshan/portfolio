@@ -8,11 +8,13 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 
 ## 🚀 Live Demo
 
-🔗 [Click to View My Portfolio](https://r-priyadarshan-portfolio.netlify.app/)
+🔗 **[View Live Preview](https://c0a7a78f1f5440a8aefd6a15a4bd1d8c-5f1d54f572204773b348d655c.fly.dev/)** ⚡ (Current Development)
+🔗 **[View on Netlify](https://r-priyadarshan-portfolio.netlify.app)** (Production)
+🔗 [View on GitHub Pages](https://R-Priyadarshan.github.io/myResume/)
 
 ---
 
-## 🖼️ Features
+## ����️ Features
 
 - ⚡ Lightning-fast with Vite
 - 🌙 Light/Dark Theme with toggle and saved preference
@@ -28,7 +30,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 - **Frontend**: React + Tailwind CSS + Vite
 - **Animation**: Framer Motion
 - **Icons**: React Icons
-- **Deployment**: GitHub Pages
+- **Deployment**: Netlify + GitHub Pages
 
 ---
 
@@ -37,7 +39,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 ```bash
 my-resume/
 ├── src/
-│   ├── components/        # All reusable sections
+│   ├��─ components/        # All reusable sections
 │   ├── media/             # Assets like resume, certificates, images
 │   ├── App.jsx            # Main layout
 │   └── main.jsx           # Entry point
@@ -102,7 +104,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-Deployed at 👉 [https://r-priyadarshan-portfolio.netlify.app/](https://r-priyadarshan-portfolio.netlify.app/)
+Deployed at 👉 [https://R-Priyadarshan.github.io/myResume/](https://R-Priyadarshan.github.io/myResume/)
 
 ---
 
@@ -146,5 +148,6 @@ Licensed under [MIT License](LICENSE)
 ---
 
 ### ✨ Thank You for Visiting!
+
 
 

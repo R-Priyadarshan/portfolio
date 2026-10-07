@@ -1,4 +1,4 @@
 {
-  "buildCommand": "npm install --prefix my-resume-main && npm run build --prefix my-resume-main",
-  "outputDirectory": "my-resume-main/dist"
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
 }

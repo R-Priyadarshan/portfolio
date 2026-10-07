@@ -1,7 +1,6 @@
 [build]
-  base = "my-resume-main"
-  publish = "my-resume-main/dist"
-  command = "cd my-resume-main && npm run build"
+  publish = "dist"
+  command = "npm run build"
 
 [[redirects]]
   from = "/*"
