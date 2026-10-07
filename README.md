@@ -10,7 +10,7 @@ This site showcases my journey as a Software Developer & Data Scientist — high
 
 🔗 **[View Live Preview](https://c0a7a78f1f5440a8aefd6a15a4bd1d8c-5f1d54f572204773b348d655c.fly.dev/)** ⚡ (Current Development)
 🔗 **[View on Netlify](https://r-priyadarshan-portfolio.netlify.app)** (Production)
-🔗 [View on GitHub Pages](https://R-Priyadarshan.github.io/myResume/)
+🔗 **[View on GitHub Pages](https://r-priyadarshan.github.io/portfolio/)**
 
 ---
 
@@ -104,7 +104,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-Deployed at 👉 [https://R-Priyadarshan.github.io/myResume/](https://R-Priyadarshan.github.io/myResume/)
+Deployed at 👉 [https://r-priyadarshan.github.io/portfolio/](https://r-priyadarshan.github.io/portfolio/)
 
 ---
 
